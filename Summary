@@ -1,0 +1,193 @@
+No problem! Integrating the confirmed DCS assets and the core of the multiplayer "Iron Resolve" mission, here's the comprehensive narrative storyline for your "Desert Vigil" campaign.
+
+DCS: "Desert Vigil" - A Southern Watch Campaign
+Setting: DCS Persian Gulf Map, focusing on the airspace and territories around Kuwait and Southern Iraq.
+
+Timeframe: Early to Mid-1990s (e.g., 1993-1995), during the height of Operation Southern Watch and periods like Operation Vigilant Warrior. This timeframe allows for the presence of the F-4G Wild Weasel (AI) and a strong mix of Cold War and emerging 4th-gen aircraft for both sides.
+
+Factions:
+
+Blue Force: Coalition Forces (USN/USAF/USMC, RAF).
+
+Airbases: Ali Al Salem AB (OKAS), Al Jaber AB (OKAJ) in Kuwait; Prince Sultan AB (OEDM) in Saudi Arabia.
+
+Carrier Strike Groups (CSG):
+
+Aircraft Carrier (CVN): USS Abraham Lincoln (CVN-72), USS George Washington (CVN-73), or USS Constellation (CV-64) - represented by the DCS: Supercarrier module (can be renamed in mission editor).
+
+Cruisers (CG - Ticonderoga-class): e.g., USS Normandy (CG-60), USS Anzio (CG-68) - AI.
+
+Destroyers (DDG - Arleigh Burke-class): e.g., USS Arleigh Burke (DDG-51), USS Cole (DDG-67) - AI.
+
+Frigates (FFG - Oliver Hazard Perry-class): e.g., USS Reid (FFG-30), USS Halyburton (FFG-40) - AI.
+
+Supply Ship/Replenishment Oiler (AOE/AO): e.g., USNS Arctic (AOE-8) - AI.
+
+Carrier Air Wing (CVW): F/A-18C Hornets, F-14B Tomcats (Player & AI), EA-6B Prowlers (AI), S-3B Vikings (AI), E-2C Hawkeyes (AI), SH-60 Seahawks (AI).
+
+Red Force: Iraqi Air Force & Army. (Post-Desert Storm, but rearming and testing boundaries).
+
+Aircraft: MiG-21bis, MiG-23MLD, Su-22, Mirage F1EQ (AI), MiG-25P/RBT (AI).
+
+Air Defenses: SA-2, SA-3, SA-6, SA-8, ZSU-23-4, S-60 AAA (all AI).
+
+Key Bases: Basra International (ORMM), Tallil Airbase (ORTL), Shaibah Airbase (Iraq).
+
+Campaign Arc: Escalation & Containment
+The campaign will begin with a clear act of Iraqi aggression, demanding an immediate, decisive, and coordinated Coalition response. Depending on the success of this response, the campaign will branch into either sustained pressure and intelligence gathering or a more direct, retaliatory conflict.
+
+Mission 1: "Iron Resolve" - Coordinated Response
+Player Flyable: F-14B, F/A-18C, F-16C, AV-8B, F-4E
+
+Date: November 5, 1994 (During Operation Vigilant Warrior)
+
+Situation: Intelligence confirms escalating Iraqi military rhetoric and suspicious activity at Basra International Airfield (ORMM). Coalition forces are on high alert.
+
+Part 1: The Iraqi Provocation & Initial Intercept (CAP/QRA Players)
+
+The Provocation: At [Time], a flight of two Iraqi MiG-23MLDs (callsign "VIPER 1-1 / 1-2") launches from Basra, executing a high-speed, low-altitude ingress deep into the Southern No-Fly Zone. Their target: a small, non-critical border outpost near Umm Qasr Naval Base in Kuwait. They conduct a brazen strafing run on the target, a clear and undeniable act of hostility, before attempting a hard, high-speed turn north to escape back into Iraqi airspace.
+
+Player Roles (Immediate Response):
+
+F-14B (Player 1: "Saber 1-1", from Carrier CSG): Already on Combat Air Patrol (CAP) in the Northern Arabian Gulf. Your long-range radar and AIM-54 capabilities make you ideally suited for the initial BVR (Beyond Visual Range) detection and engagement of the fleeing aggressors.
+
+F/A-18C (Player 2: "Hornet 1-1", from Carrier CSG): Also on CAP or QRA from the same Carrier. Your versatile air-to-air capabilities provide crucial support to the F-14s and can transition if the situation requires.
+
+F-16C (Player 3: "Viper 1-1", from Ali Al Salem AB): On Quick Reaction Alert (QRA), scrambled as the closest land-based fighter. Your agility is critical for closing the distance quickly and potentially engaging in a WVR (Within Visual Range) fight.
+
+F-4E (Player 4: "Rhino 1-1", from Al Jaber AB): On QRA, also scrambled. While not a BVR specialist like the Tomcat, your ruggedness and WVR capabilities make you a formidable opponent for the fleeing MiGs.
+
+Shared Objectives (Phase 1):
+
+Intercept & Engage: All assigned CAP/QRA player flights are vectored to intercept the "VIPER" flight. Coordinate target assignments and missile engagements.
+
+Destroy Both MiG-23MLDs: Prevent their escape back into Iraqi airspace. ROE is "Weapons Free" – this is a direct response to an unprovoked attack.
+
+Report & Assess: Continuously update AWACS (E-3 Sentry) or Hawkeye (E-2C) on engagement status, enemy heading, and results.
+
+Part 2: The Coordinated Retaliation (Strike & SEAD Players)
+
+Situation Update (triggered by MiG-23 attack): Even as the air-to-air engagement unfolds, the Coalition Air Operations Center (CAOC) declares a "HOT RESPONSE." The brazen attack on Kuwaiti soil demands immediate, overwhelming retaliation. Two separate, but tightly coordinated, packages are launched or prepared for immediate launch.
+
+Package 1: SEAD Suppression (F-16C/F-4E Players)
+
+Task: Neutralize immediate Iraqi air defense threats that will inevitably activate in response to the NFZ violation and the incoming strike.
+
+Player Roles:
+
+F-16C (Player 5: "Weasel 1-1", from Ali Al Salem AB): Dedicated Wild Weasel, equipped with AGM-88 HARMs and an HTS (HARM Targeting System) pod. Your primary task is to lead the SEAD effort, baiting Iraqi SAM radars to emit and then destroying them.
+
+F-4E (Player 6: "Phanom 1-1", from Al Jaber AB): Flying as a "killer" escort for the F-16 Weasels, equipped with AGM-65 Mavericks or cluster bombs to target suppressed SAM launchers, radar vans, or AAA sites. You'll also provide air-to-air self-defense for the SEAD package.
+
+Objectives (SEAD Group):
+
+Ingress ahead of the strike package and establish a SEAD orbit along the Iraqi border.
+
+Identify and destroy the most immediate threats: "BASRA WEST SAM" (SA-3 site) and "BASRA SOUTH SAM" (SA-2 site). These sites will be active and aggressively targeting Coalition aircraft.
+
+Provide clear "FENCE-IN" (threat clear) calls to the incoming strike package once the main threats are suppressed or destroyed.
+
+Continue to monitor for new SAM pop-ups or reactivations throughout the mission.
+
+Package 2: Precision Strike (F/A-18C/AV-8B Players)
+
+Task: Deliver a precision strike on the source of the provocation – Basra International Airfield.
+
+Player Roles:
+
+F/A-18C (Player 7: "Hornet 2-1", from Carrier CSG): Leading the main strike element, carrying LGBs (Laser Guided Bombs) for precision destruction of the primary target. Your role is critical for delivering the decisive blow.
+
+AV-8B (Player 8: "Harrier 1-1", from Ahmad al-Jaber AB / LHA): As part of the strike element, carrying cluster munitions (CBUs) or Mk-82s for area denial on the airfield, or Mavericks for hardened targets. Your STOVL capabilities allow for rapid deployment and egress.
+
+Objectives (Strike Group):
+
+Ingress to Basra International Airfield (ORMM), coordinating timing with the SEAD package.
+
+Destroy the designated main hangar and/or hardened aircraft shelter (HAS) from which the MiG-23s launched. (Specific objects should be marked in mission editor).
+
+Maintain tight formation and situational awareness to avoid active and suppressed threats.
+
+Egress safely, reporting BDA (Bomb Damage Assessment) back to CAOC.
+
+AI Support (for all groups):
+
+AWACS (E-3 Sentry / E-2C Hawkeye): Providing overall situational awareness, target handoffs, and command authority.
+
+AAR Tanker (KC-135 / KC-130): On station for extended mission duration, crucial for CAP and SEAD players.
+
+AI Wingmen: For all player flights, providing realistic flight operations, support, and covering their six.
+
+Additional AI CAP: Loitering further away, ready to assist if the situation escalates beyond the initial player response.
+
+Carrier Strike Group (CSG): Provides robust air defense for naval assets, contributing to the overall integrity of the operational area.
+
+Threat Assessment (Post-Provocation):
+
+Air Defenses: All Iraqi SAMs (SA-2, SA-3, SA-6, SA-8) and AAA (ZSU-23-4, S-60) around Basra and along the routes will be at maximum alert, actively searching and attempting engagements. Expect dynamic threat activation.
+
+Iraqi CAP: Expect retaliatory Iraqi CAPs to launch from nearby fields (e.g., MiG-21s, MiG-23s, possibly MiG-25s for reconnaissance/intercept). They will actively seek to intercept the strike packages and defend their airspace.
+
+Mission Success/Failure Conditions (Collaborative Impact):
+
+Overall Success (Ideal Scenario):
+
+Both initial MiG-23s are destroyed by CAP/QRA players.
+
+Primary Basra airfield target is destroyed by the Strike players.
+
+Key SEAD targets (Basra SAMs) are neutralized by SEAD players.
+
+Minimal Coalition losses (e.g., 0-1 player/AI aircraft lost).
+
+Partial Success:
+
+MiG-23s escape, but strike is successful.
+
+Strike hits targets, but SEAD fails, leading to high Coalition losses.
+
+MiG-23s destroyed, but strike fails to hit targets.
+
+Overall Failure:
+
+MiG-23s escape AND the punitive strike fails significantly (e.g., aborted, no hits, heavy losses).
+
+High Coalition losses across the board, rendering follow-up operations impossible.
+
+Branching Paths (Based on Overall Mission 1 Outcome - Collaborative Impact):
+Outcome A: Decisive, Coordinated Victory ("No More Games")
+
+Conditions: All primary objectives met with minimal Coalition losses. Excellent player coordination.
+
+Campaign Impact: Coalition demonstrates overwhelming force. Iraq is temporarily deterred from overt violations but shifts to more covert or asymmetric tactics. Political rhetoric from Baghdad cools.
+
+Mission 2A: "Shadow Watch" - Joint Reconnaissance & Deterrent Patrols
+
+Focus: A more strategic, intelligence-gathering mission. Teams of F-14B (long-range radar/recon), F-16C (HTS/targeting pods for emitters/visual recon), F/A-18C (recon pod/visual), and AV-8B (forward ISR) players will conduct extended patrols along the NFZ and deeper into 'grey areas.' The goal is to detect covert Iraqi activities, new SAM emplacements, or unusual force movements without triggering open conflict. Expect subtle cat-and-mouse games with Iraqi border patrols or recon flights.
+
+Outcome B: Costly Victory ("Avenging the Fallen")
+
+Conditions: Primary objectives met, but Coalition suffered significant losses (e.g., 2+ player/AI aircraft lost, particularly to SAMs).
+
+Campaign Impact: We hit them hard, but they hit us back. Iraq feels emboldened that they can inflict damage. Public pressure to neutralize specific threats that caused losses.
+
+Mission 2B: "Guardian Hammer" - Large-Scale Coordinated SEAD/DEAD Sweep
+
+Focus: An intense, multi-package SEAD/DEAD operation. F-16C and F-4E players will lead dedicated Wild Weasel flights, actively hunting and destroying remaining or newly deployed SAM batteries (SA-6, SA-8, SA-2/3). F-14B/F/A-18C players will provide CAP and close escort. AV-8B players might join as dedicated "killer" elements. Expect aggressive Iraqi fighter intercepts and highly active SAM networks. This will be a pure "hunter-killer" mission.
+
+Outcome C: Failed Response ("Coalition Humiliation")
+
+Conditions: Primary objectives not met (MiGs escape, strike fails). High Coalition losses. Poor coordination.
+
+Campaign Impact: Severe blow to Coalition prestige. Iraq gains immense propaganda victory and feels emboldened to escalate. A much stronger, undeniable, and multi-day response is required.
+
+Mission 2C: "Operation Desert Sword" - Full-Scale Strategic Strike
+
+Focus: A major, multi-package, deep punitive strike against a critical Iraqi military target far within their territory (e.g., Tallil Airbase facilities, a major Republican Guard barracks, or a strategic command center). This mission would require extensive coordination:
+
+F-14B/F-16C/F/A-18C Players: Deep Strike Escort CAP.
+
+F-16C/F-4E Players: Lead the deep SEAD/DEAD effort against multiple layers of integrated air defenses.
+
+F/A-18C/AV-8B Players: Execute the precision strike on the primary targets, potentially requiring multiple passes or waves.
+
+This sets up a demanding, multi-phase mission or even a two-part mission (e.g., "Day 1: SEAD Clear-Out", "Day 2: Main Strike").
